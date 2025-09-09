@@ -1,2 +1,2 @@
-# amazon-clone
+# bharat intern
 my 1st project
